@@ -21,16 +21,13 @@
   </OL>
   <B><U><H2> Team Id </H2></U></B>
   BFH/rec38sqthhLmjmvGk/2021
-  <B><U><H2> Link to product walkthrough </H2></U></B>
-  
-  
+ <B><U><H2> Link to product walkthrough </H2></U></B>
   <B><U><H2> How it Works? </H2></U></B>
   <OL>
     <LI> </LI>
     <LI> </LI>
   </OL>
   <B><U><H2> Libraries used </H2></U></B>
-    
   <B><U><H2> How to configure? </H2></U></B>
    <B>Instructions: </B>
   <UL>
