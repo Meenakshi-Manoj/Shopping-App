@@ -37,6 +37,6 @@
    <B><U><H2> How to run?</H2></U></B>
   <B> Instructions: </B>
   <UL>
-    <LI> </LI>
-    <LI> </LI>
+   <LI>Download the apk in the emulator (Preferably) </LI>
+   <LI>Other wise run the program to get correct output </LI>
   </UL>
