@@ -24,17 +24,17 @@
  <B><U><H2> Link to product walkthrough </H2></U></B>
   <B><U><H2> How it Works? </H2></U></B>
   <OL>
-    <LI> </LI>
-    <LI> </LI>
+    <LI> 🔸To create account</LI>
+    <LI>🔸Login with your email & password </LI>
+    <LI>🔸You can view and select the items, or can view by category</LI>
+    <LI>🔸Can add the item to cart by clicking on 'add to cart' or can buy them directly by clicking 'Buy Now'</LI>
+    <LI>🔸Can view your profile in 'My profile'</LI>
+    <LI>🔸Can see the items in the cart on by clicking 'My Cart'</LI>
+   
   </OL>
   <B><U><H2> Libraries used </H2></U></B>
+ <LI>
   <B><U><H2> How to configure? </H2></U></B>
-   <B>Instructions: </B>
-  <UL>
-    <LI> </LI>
-    <LI> </LI>
-  </UL>
-   <B><U><H2> How to run?</H2></U></B>
   <B> Instructions: </B>
   <UL>
    <LI>Download the apk in the emulator (Preferably) </LI>
