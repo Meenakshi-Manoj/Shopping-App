@@ -32,8 +32,6 @@
     <LI>🔸Can see the items in the cart on by clicking 'My Cart'</LI>
    
   </OL>
-  <B><U><H2> Libraries used </H2></U></B>
- <LI>
   <B><U><H2> How to configure? </H2></U></B>
   <B> Instructions: </B>
   <UL>
